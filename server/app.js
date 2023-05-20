@@ -17,7 +17,8 @@ app.use(
     cookie: { secure: false }, // set secure to true if using HTTPS
   })
 );
-const db ="mongodb+srv://adminmayank:amanmayank@cluster0.8swhukd.mongodb.net/?retryWrites=true&w=majority"
+const db = add url here like 
+// "mongodb+srv://username:admitpassword@cluster0.8swhukd.mongodb.net/?retryWrites=true&w=majority"
 
 
 mongoose
