@@ -1,9 +1,12 @@
 # Chhatra-Vritti
 A complete mern based web Application for providing scholarships to students all over the world to pursue their dream .
+This Application is aimed to provide scholarship and make it available for everyone in need 
+## Introduction-
+
 Home page--
 ![25RWb.png](https://imgtr.ee/images/2023/05/20/25RWb.png)
 Scholarships --
-![259JA.png](https://imgtr.ee/images/2023/05/20/259JA.png)
+![25S6s.png](https://imgtr.ee/images/2023/05/20/25S6s.png)
 
 
 Admin Login page --
@@ -15,5 +18,4 @@ User Login and Registration --
 
 Scholarship Applcation form --
 <a href="https://imgtr.ee/i/258ei"><img src="https://imgtr.ee/images/2023/05/20/258ei.png" alt="258ei.png" border="0"></a>
-<a href="https://imgtr.ee/i/250TJ"><img src="https://imgtr.ee/images/2023/05/20/250TJ.png" alt="250TJ.png" border="0"></a>
 <a href="https://imgtr.ee/i/25aMr"><img src="https://imgtr.ee/images/2023/05/20/25aMr.png" alt="25aMr.png" border="0"></a>
