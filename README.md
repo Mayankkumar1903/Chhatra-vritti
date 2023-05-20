@@ -5,12 +5,20 @@ Author : [Mayank Kumar](mayankk1903@gmail.com)
 ## Introduction-
 
 ## 🛠️ Built with :
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-vNQgIYI8ZgMRkZJFLCl4MGKNFGJsSy_QaDuMduda&s"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLmIZAJzbB9-MbWHbTJ7bxPJarms-B_kXAHgPGZjA&s"/> <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
 - **Frontend**: React , BootStrap
 - **Backdnd**:ExpressJs , NodeJs , MOngoDB
 - **Version Control**: Git
 - **Hosting**:  Github Pages
 
+
+## ✨ Features :
+- Easy to use 
+- Available Scholarshisps for all category
+- Easy Login and Application process
+
+## 👨‍💻 How to Use :
+-Select the Scholarship which suits you from the available ones
+- Drop an application with required details
 
 Home page--
 ![25RWb.png](https://imgtr.ee/images/2023/05/20/25RWb.png)
@@ -29,3 +37,14 @@ Scholarship Applcation form --
 <a href="https://imgtr.ee/i/258ei"><img src="https://imgtr.ee/images/2023/05/20/258ei.png" alt="258ei.png" border="0"></a>
 <a href="https://imgtr.ee/i/25aMr"><img src="https://imgtr.ee/images/2023/05/20/25aMr.png" alt="25aMr.png" border="0"></a>
 ![25bFD.png](https://imgtr.ee/images/2023/05/20/25bFD.png)
+
+## Contributing
+
+We welcome contributions! If you have an idea for a new feature or have found a bug, please open an issue on Github. 
+
+## 📝 Endnote
+So if you have liked this project then do consider giving it a star which will encourage me to build more of this kind of projects in future and also if you want youcan follow me on [Github](https://github.com/Mayankkumar1903) 😊
+Keep Coding !
+
+<p align="right">~ Mayank Kumar</p>
+
