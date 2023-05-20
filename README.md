@@ -1,7 +1,16 @@
 # Chhatra-Vritti
-A complete mern based web Application for providing scholarships to students all over the world to pursue their dream .
-This Application is aimed to provide scholarship and make it available for everyone in need 
+>```Chhatra-Vritti``` a complete mern based web Application for providing scholarships to students all over the world to pursue their dream .
+This Application is aimed to provide scholarship and make it available for everyone in need....
+Author : [Mayank Kumar](mayankk1903@gmail.com)
 ## Introduction-
+
+## 🛠️ Built with :
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-vNQgIYI8ZgMRkZJFLCl4MGKNFGJsSy_QaDuMduda&s"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLmIZAJzbB9-MbWHbTJ7bxPJarms-B_kXAHgPGZjA&s"/> <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
+- **Frontend**: React , BootStrap
+- **Backdnd**:ExpressJs , NodeJs , MOngoDB
+- **Version Control**: Git
+- **Hosting**:  Github Pages
+
 
 Home page--
 ![25RWb.png](https://imgtr.ee/images/2023/05/20/25RWb.png)
